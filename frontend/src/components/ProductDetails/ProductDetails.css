@@ -41,3 +41,18 @@ li {
   padding: 1rem;
   max-width: 350px;
 }
+
+.button {
+  padding: 1rem;
+  border: 0.1rem #808080 solid;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.button:hover {
+  border: 0.1rem #404040 solid;
+}
+
+.button {
+  background-color: #f0c040;
+}
